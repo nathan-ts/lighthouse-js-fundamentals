@@ -12,4 +12,4 @@ for (let i = 100; i <= 200; i++) {
   else {
     console.log(output);
   }
-}
+} 
